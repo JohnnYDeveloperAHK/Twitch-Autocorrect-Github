@@ -15,6 +15,12 @@ in their games).
 In that regard i did some safety measures, and that the APP can only open if the BROWSER is ON, and the APP will close when the BROWSER is OFF too. (browser being the iternet
 explorer you're currently using, that being "chrome" or "opera" or "mozilla" or any other browser)
 
+The APP can be open if a BROWSER is ON, and when a GAME is on too!, so in that case, close the game, or don't use both, You can play non-anticheat games, such as singleplayer
+games, or games that you can research online that don't have an anticheat, but are still multiplayer like, in that case you can use the APP even while you have the game on,
+and the browser on, Because of the limitations of the software that im working on, i canno't specify to close the program upon not using the same process. Maybe in some
+future updates of the program i will be able to specify, or if i find a solution to this problem, until then,
+//// don't open a BROWSER and a GAME (any .exe game) with an ANTICHEAT ON.////
+
 Now that that's done, you're all fine and dandy.
 
 //

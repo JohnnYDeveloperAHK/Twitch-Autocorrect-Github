@@ -9,8 +9,8 @@ with chat emotes,
 THE APP CANNOT BE OPEN WHILE ANY GAME WITH AN ANTICHEAT IS ON!!!!
 DO NOT OPEN IT WHILE A MULTIPLAYER GAME WITH AN ANTICHEAT IS ON, OR YOU MAY BE BANNED!!!!
 
-(Many 10year old kids use this app to create cheats, which is absolutely stupid, and in such, im pretty sure that every anticheat ever blocked this software from being used
-in their games).
+(Many 10year old kids use this "Autohotkey Programming Language" to create cheats, which is absolutely stupid, and because of which, im pretty sure that every anticheat ever blocked this "Autohotkey Instance" from being used in their games).    2025:Edit "Autohotkey uses virtual-send keystrokes which can be easily detected by Games. Because of this, it is not recommended to use a running Autohotkey Instance with a 
+Game that has a running Anti-cheat in the background)
 
 In that regard i did some safety measures, and that the APP can only open if the BROWSER is ON, and the APP will close when the BROWSER is OFF too. (browser being the iternet
 explorer you're currently using, that being "chrome" or "opera" or "mozilla" or any other browser)

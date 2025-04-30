@@ -1,7 +1,7 @@
 # Twitch-Autocorrect-Github
 Used for autocorrection of text for emotes, abbreviations and grammar correction.
 
-BEFORE ANYTHING (This app is not a malware, i have no evil or bad thoughts or doings so i can harm someone's computer, This app is simply here to help you chat easier on twitch
+BEFORE ANYTHING (This app is not a malware, i have no evil or bad intentions so i can harm someone's computer, This app is simply here to help you chat easier on twitch
 with chat emotes,
 
 //  N   O   T   E
